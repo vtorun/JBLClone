@@ -1,13 +1,18 @@
-# Amazon Clone
+# JBL CLONE
 
-Bu proje, HTML ve CSS kullanılarak oluşturulmuş bir Amazon arayüzü klonudur.
+This project is a clone of the JBL website, created using SCSS. It showcases my skills in responsive design, animations, and modular SCSS.
 
-# Özellikler
+# Features
 
-- Tamamen responsive tasarım
-- Amazon'un ana sayfa arayüzüne benzer stil
-- HTML ve CSS ile sıfırdan oluşturulmuş bileşenler
-- Ekran boyutlarına duyarlı yerleşim
+- Fully responsive design.
+- Modular SCSS structure.
+- Smooth CSS animations.
 
-# Ekran Kaydı
-![JBLClone](https://github.com/user-attachments/assets/425d2763-3d2f-4b33-9dc7-5dff05eb54ff)
+# Technologies Used
+
+- **HTML5**: For structuring the website.
+- **SCSS (Sassy CSS)**: To organize and style the CSS in a modular way.
+
+# Screenshot
+
+![JBLClone](https://github.com/user-attachments/assets/580654f9-422b-42b3-95d0-7fffc5e75025)
